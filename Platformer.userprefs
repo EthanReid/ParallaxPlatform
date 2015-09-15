@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SmoothCamera2d.cs">
+    <Files>
+      <File FileName="Assets/PlayerMovement.cs" Line="4" Column="28" />
+      <File FileName="Assets/paralaxx.cs" Line="15" Column="40" />
+      <File FileName="Assets/SmoothCamera2d.cs" Line="16" Column="104" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
