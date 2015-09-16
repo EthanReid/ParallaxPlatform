@@ -54,6 +54,7 @@
      <Compile Include="Assets\PlayerMovement.cs" />
      <Compile Include="Assets\SmoothCamera2d.cs" />
      <Compile Include="Assets\Weapon1.cs" />
+     <Compile Include="Assets\enemyAi.cs" />
      <Compile Include="Assets\paralaxx.cs" />
      <Compile Include="Assets\spriteChange.cs" />
  <Reference Include="UnityEngine.Analytics">

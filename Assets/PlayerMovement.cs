@@ -16,10 +16,10 @@ public class PlayerMovement : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetKey(KeyCode.RightArrow)){
-			//gameObject.GetComponent<SpriteRenderer>().sprite = sprite2;
+			gameObject.GetComponent<SpriteRenderer>().sprite = sprite2;
 		}
 		if (Input.GetKey(KeyCode.LeftArrow)){
-			//gameObject.GetComponent<SpriteRenderer>().sprite = sprite1;
+			gameObject.GetComponent<SpriteRenderer>().sprite = sprite1;
 		}
 		if (Input.GetMouseButtonDown (0)){
 			transform.position += Vector3.up * speed * Time.deltaTime * 3;
@@ -53,13 +53,13 @@ public class PlayerMovement : MonoBehaviour {
 		}
 
 	}
-	void Flip()
-	{
-		isFacingRight = !isFacingRight;							// Invert the value of facingRight
-		Vector3 playerScale = transform.localScale;			// Invert the local transform
-		playerScale.x = playerScale.x * -1;					// Invert the X scale of the Vector 3
-		transform.localScale = playerScale;				    // Match the transforms local scale to the Vector 3
-	}
+	//void Flip()
+	//{
+		//isFacingRight = !isFacingRight;							// Invert the value of facingRight
+		//Vector3 playerScale = transform.localScale;			// Invert the local transform
+		//playerScale.x = playerScale.x * -1;					// Invert the X scale of the Vector 3
+		//transform.localScale = playerScale;				    // Match the transforms local scale to the Vector 3
+	//}
 }
 
 
