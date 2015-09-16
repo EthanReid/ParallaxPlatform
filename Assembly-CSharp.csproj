@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{100AE41E-9853-00A1-0814-C759729749EB}</ProjectGuid>
+	<ProjectGuid>{83FBE6B5-8CD8-EBB5-0CEC-CA655271F1AA}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -48,8 +48,12 @@
   <ItemGroup>
      <Compile Include="Assets\2D Assets Pack\Scripts\2D Platformer\Camera2DFollow.cs" />
      <Compile Include="Assets\2D Assets Pack\Scripts\2D Platformer\Parallaxing.cs" />
+     <Compile Include="Assets\EpicPlayerControler.cs" />
+     <Compile Include="Assets\MoveTrail.cs" />
+     <Compile Include="Assets\PlayerController.cs" />
      <Compile Include="Assets\PlayerMovement.cs" />
      <Compile Include="Assets\SmoothCamera2d.cs" />
+     <Compile Include="Assets\Weapon1.cs" />
      <Compile Include="Assets\paralaxx.cs" />
      <Compile Include="Assets\spriteChange.cs" />
  <Reference Include="UnityEngine.Analytics">

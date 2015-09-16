@@ -73,6 +73,7 @@
 'Assets/MoveTrail.cs'
 'Assets/PlayerMovement.cs'
 'Assets/SmoothCamera2d.cs'
+'Assets/Weapon1.cs'
 'Assets/paralaxx.cs'
 'Assets/spriteChange.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
