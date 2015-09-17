@@ -5,6 +5,9 @@ public class PlayerMovement : MonoBehaviour {
 	public Sprite sprite1;
 	public Sprite sprite2;
 	public bool isFacingRight = true;	
+	public float jumpSpeed = 1.5f;
+	public float superSpeed = 10;
+	public float superJump = 4f;
 	//public Sprite sprite3;
 	// Use this for initialization
 	void Start () {
@@ -15,6 +18,20 @@ public class PlayerMovement : MonoBehaviour {
 	public float speed = 1.5f;
 	// Update is called once per frame
 	void Update () {
+		if (Input.GetKeyDown(KeyCode.LeftShift)){
+			speed = 10f;
+		}
+		if (Input.GetKeyUp(KeyCode.LeftShift)){
+			speed = 1.5f;
+		}
+		if (Input.GetKeyDown(KeyCode.LeftShift)){
+			jumpSpeed = superJump;
+		}
+		if (Input.GetKeyUp(KeyCode.LeftShift)){
+			speed = 1.5f;
+		}
+
+
 		if (Input.GetKey(KeyCode.RightArrow)){
 			gameObject.GetComponent<SpriteRenderer>().sprite = sprite2;
 		}
@@ -35,7 +52,7 @@ public class PlayerMovement : MonoBehaviour {
 		}
 		if (Input.GetKey(KeyCode.UpArrow))
 		{
-			transform.position += Vector3.up * speed * Time.deltaTime * 3;
+			transform.position += Vector3.up * jumpSpeed * Time.deltaTime * 3;
 		}
 		if (Input.GetKey(KeyCode.DownArrow))
 		{
@@ -45,13 +62,8 @@ public class PlayerMovement : MonoBehaviour {
 
 
 			
-		if (Input.GetKeyDown(KeyCode.LeftShift)){
-			speed = 10f;
-		}
-		if (Input.GetKeyUp(KeyCode.LeftShift)){
-			speed = 1.5f;
-		}
 
+	
 	}
 	//void Flip()
 	//{
