@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 1f875d1e07d3d4c4599dcc96fb4b3b26
+timeCreated: 1443553526
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_0
+    21300002: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_1
+    21300004: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_2
+    21300006: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_3
+    21300008: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_4
+    21300010: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_5
+    21300012: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_6
+    21300014: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_7
+    21300016: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_8
+    21300018: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_9
+    21300020: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_10
+    21300022: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_11
+    21300024: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_12
+    21300026: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_13
+    21300028: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_14
+    21300030: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_15
+    21300032: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_16
+    21300034: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_17
+    21300036: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_18
+    21300038: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_19
+    21300040: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_20
+    21300042: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_21
+    21300044: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_22
+    21300046: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 403
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 402
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 401
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 398
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_4
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 401
+        width: 102
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_5
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 358
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 294
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 295
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 295
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 295
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 295
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 294
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 192
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 192
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 191
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 188
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 191
+        width: 103
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_17
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 148
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 84
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 83
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 85
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 85
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_22
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 85
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: emile_sprite_sheet_dark_emile_by_davejay7-d2ygn9z_23
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 84
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

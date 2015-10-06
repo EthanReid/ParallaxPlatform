@@ -1,0 +1,4686 @@
+fileFormatVersion: 2
+guid: f1622bc3c1d4b479bbf22ffad6923378
+timeCreated: 1443723832
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hero-sheet_0
+    21300002: Hero-sheet_1
+    21300004: Hero-sheet_2
+    21300006: Hero-sheet_3
+    21300008: Hero-sheet_4
+    21300010: Hero-sheet_5
+    21300012: Hero-sheet_6
+    21300014: Hero-sheet_7
+    21300016: Hero-sheet_8
+    21300018: Hero-sheet_9
+    21300020: Hero-sheet_10
+    21300022: Hero-sheet_11
+    21300024: Hero-sheet_12
+    21300026: Hero-sheet_13
+    21300028: Hero-sheet_14
+    21300030: Hero-sheet_15
+    21300032: Hero-sheet_16
+    21300034: Hero-sheet_17
+    21300036: Hero-sheet_18
+    21300038: Hero-sheet_19
+    21300040: Hero-sheet_20
+    21300042: Hero-sheet_21
+    21300044: Hero-sheet_22
+    21300046: Hero-sheet_23
+    21300048: Hero-sheet_24
+    21300050: Hero-sheet_25
+    21300052: Hero-sheet_26
+    21300054: Hero-sheet_27
+    21300056: Hero-sheet_28
+    21300058: Hero-sheet_29
+    21300060: Hero-sheet_30
+    21300062: Hero-sheet_31
+    21300064: Hero-sheet_32
+    21300066: Hero-sheet_33
+    21300068: Hero-sheet_34
+    21300070: Hero-sheet_35
+    21300072: Hero-sheet_36
+    21300074: Hero-sheet_37
+    21300076: Hero-sheet_38
+    21300078: Hero-sheet_39
+    21300080: Hero-sheet_40
+    21300082: Hero-sheet_41
+    21300084: Hero-sheet_42
+    21300086: Hero-sheet_43
+    21300088: Hero-sheet_44
+    21300090: Hero-sheet_45
+    21300092: Hero-sheet_46
+    21300094: Hero-sheet_47
+    21300096: Hero-sheet_48
+    21300098: Hero-sheet_49
+    21300100: Hero-sheet_50
+    21300102: Hero-sheet_51
+    21300104: Hero-sheet_52
+    21300106: Hero-sheet_53
+    21300108: Hero-sheet_54
+    21300110: Hero-sheet_55
+    21300112: Hero-sheet_56
+    21300114: Hero-sheet_57
+    21300116: Hero-sheet_58
+    21300118: Hero-sheet_59
+    21300120: Hero-sheet_60
+    21300122: Hero-sheet_61
+    21300124: Hero-sheet_62
+    21300126: Hero-sheet_63
+    21300128: Hero-sheet_64
+    21300130: Hero-sheet_65
+    21300132: Hero-sheet_66
+    21300134: Hero-sheet_67
+    21300136: Hero-sheet_68
+    21300138: Hero-sheet_69
+    21300140: Hero-sheet_70
+    21300142: Hero-sheet_71
+    21300144: Hero-sheet_72
+    21300146: Hero-sheet_73
+    21300148: Hero-sheet_74
+    21300150: Hero-sheet_75
+    21300152: Hero-sheet_76
+    21300154: Hero-sheet_77
+    21300156: Hero-sheet_78
+    21300158: Hero-sheet_79
+    21300160: Hero-sheet_80
+    21300162: Hero-sheet_81
+    21300164: Hero-sheet_82
+    21300166: Hero-sheet_83
+    21300168: Hero-sheet_84
+    21300170: Hero-sheet_85
+    21300172: Hero-sheet_86
+    21300174: Hero-sheet_87
+    21300176: Hero-sheet_88
+    21300178: Hero-sheet_89
+    21300180: Hero-sheet_90
+    21300182: Hero-sheet_91
+    21300184: Hero-sheet_92
+    21300186: Hero-sheet_93
+    21300188: Hero-sheet_94
+    21300190: Hero-sheet_95
+    21300192: Hero-sheet_96
+    21300194: Hero-sheet_97
+    21300196: Hero-sheet_98
+    21300198: Hero-sheet_99
+    21300200: Hero-sheet_100
+    21300202: Hero-sheet_101
+    21300204: Hero-sheet_102
+    21300206: Hero-sheet_103
+    21300208: Hero-sheet_104
+    21300210: Hero-sheet_105
+    21300212: Hero-sheet_106
+    21300214: Hero-sheet_107
+    21300216: Hero-sheet_108
+    21300218: Hero-sheet_109
+    21300220: Hero-sheet_110
+    21300222: Hero-sheet_111
+    21300224: Hero-sheet_112
+    21300226: Hero-sheet_113
+    21300228: Hero-sheet_114
+    21300230: Hero-sheet_115
+    21300232: Hero-sheet_116
+    21300234: Hero-sheet_117
+    21300236: Hero-sheet_118
+    21300238: Hero-sheet_119
+    21300240: Hero-sheet_120
+    21300242: Hero-sheet_121
+    21300244: Hero-sheet_122
+    21300246: Hero-sheet_123
+    21300248: Hero-sheet_124
+    21300250: Hero-sheet_125
+    21300252: Hero-sheet_126
+    21300254: Hero-sheet_127
+    21300256: Hero-sheet_128
+    21300258: Hero-sheet_129
+    21300260: Hero-sheet_130
+    21300262: Hero-sheet_131
+    21300264: Hero-sheet_132
+    21300266: Hero-sheet_133
+    21300268: Hero-sheet_134
+    21300270: Hero-sheet_135
+    21300272: Hero-sheet_136
+    21300274: Hero-sheet_137
+    21300276: Hero-sheet_138
+    21300278: Hero-sheet_139
+    21300280: Hero-sheet_140
+    21300282: Hero-sheet_141
+    21300284: Hero-sheet_142
+    21300286: Hero-sheet_143
+    21300288: Hero-sheet_144
+    21300290: Hero-sheet_145
+    21300292: Hero-sheet_146
+    21300294: Hero-sheet_147
+    21300296: Hero-sheet_148
+    21300298: Hero-sheet_149
+    21300300: Hero-sheet_150
+    21300302: Hero-sheet_151
+    21300304: Hero-sheet_152
+    21300306: Hero-sheet_153
+    21300308: Hero-sheet_154
+    21300310: Hero-sheet_155
+    21300312: Hero-sheet_156
+    21300314: Hero-sheet_157
+    21300316: Hero-sheet_158
+    21300318: Hero-sheet_159
+    21300320: Hero-sheet_160
+    21300322: Hero-sheet_161
+    21300324: Hero-sheet_162
+    21300326: Hero-sheet_163
+    21300328: Hero-sheet_164
+    21300330: Hero-sheet_165
+    21300332: Hero-sheet_166
+    21300334: Hero-sheet_167
+    21300336: Hero-sheet_168
+    21300338: Hero-sheet_169
+    21300340: Hero-sheet_170
+    21300342: Hero-sheet_171
+    21300344: Hero-sheet_172
+    21300346: Hero-sheet_173
+    21300348: Hero-sheet_174
+    21300350: Hero-sheet_175
+    21300352: Hero-sheet_176
+    21300354: Hero-sheet_177
+    21300356: Hero-sheet_178
+    21300358: Hero-sheet_179
+    21300360: Hero-sheet_180
+    21300362: Hero-sheet_181
+    21300364: Hero-sheet_182
+    21300366: Hero-sheet_183
+    21300368: Hero-sheet_184
+    21300370: Hero-sheet_185
+    21300372: Hero-sheet_186
+    21300374: Hero-sheet_187
+    21300376: Hero-sheet_188
+    21300378: Hero-sheet_189
+    21300380: Hero-sheet_190
+    21300382: Hero-sheet_191
+    21300384: Hero-sheet_192
+    21300386: Hero-sheet_193
+    21300388: Hero-sheet_194
+    21300390: Hero-sheet_195
+    21300392: Hero-sheet_196
+    21300394: Hero-sheet_197
+    21300396: Hero-sheet_198
+    21300398: Hero-sheet_199
+    21300400: Hero-sheet_200
+    21300402: Hero-sheet_201
+    21300404: Hero-sheet_202
+    21300406: Hero-sheet_203
+    21300408: Hero-sheet_204
+    21300410: Hero-sheet_205
+    21300412: Hero-sheet_206
+    21300414: Hero-sheet_207
+    21300416: Hero-sheet_208
+    21300418: Hero-sheet_209
+    21300420: Hero-sheet_210
+    21300422: Hero-sheet_211
+    21300424: Hero-sheet_212
+    21300426: Hero-sheet_213
+    21300428: Hero-sheet_214
+    21300430: Hero-sheet_215
+    21300432: Hero-sheet_216
+    21300434: Hero-sheet_217
+    21300436: Hero-sheet_218
+    21300438: Hero-sheet_219
+    21300440: Hero-sheet_220
+    21300442: Hero-sheet_221
+    21300444: Hero-sheet_222
+    21300446: Hero-sheet_223
+    21300448: Hero-sheet_224
+    21300450: Hero-sheet_225
+    21300452: Hero-sheet_226
+    21300454: Hero-sheet_227
+    21300456: Hero-sheet_228
+    21300458: Hero-sheet_229
+    21300460: Hero-sheet_230
+    21300462: Hero-sheet_231
+    21300464: Hero-sheet_232
+    21300466: Hero-sheet_233
+    21300468: Hero-sheet_234
+    21300470: Hero-sheet_235
+    21300472: Hero-sheet_236
+    21300474: Hero-sheet_237
+    21300476: Hero-sheet_238
+    21300478: Hero-sheet_239
+    21300480: Hero-sheet_240
+    21300482: Hero-sheet_241
+    21300484: Hero-sheet_242
+    21300486: Hero-sheet_243
+    21300488: Hero-sheet_244
+    21300490: Hero-sheet_245
+    21300492: Hero-sheet_246
+    21300494: Hero-sheet_247
+    21300496: Hero-sheet_248
+    21300498: Hero-sheet_249
+    21300500: Hero-sheet_250
+    21300502: Hero-sheet_251
+    21300504: Hero-sheet_252
+    21300506: Hero-sheet_253
+    21300508: Hero-sheet_254
+    21300510: Hero-sheet_255
+    21300512: Hero-sheet_256
+    21300514: Hero-sheet_257
+    21300516: Hero-sheet_258
+    21300518: Hero-sheet_259
+    21300520: Hero-sheet_260
+    21300522: Hero-sheet_261
+    21300524: Hero-sheet_262
+    21300526: Hero-sheet_263
+    21300528: Hero-sheet_264
+    21300530: Hero-sheet_265
+    21300532: Hero-sheet_266
+    21300534: Hero-sheet_267
+    21300536: Hero-sheet_268
+    21300538: Hero-sheet_269
+    21300540: Hero-sheet_270
+    21300542: Hero-sheet_271
+    21300544: Hero-sheet_272
+    21300546: Hero-sheet_273
+    21300548: Hero-sheet_274
+    21300550: Hero-sheet_275
+    21300552: Hero-sheet_276
+    21300554: Hero-sheet_277
+    21300556: Hero-sheet_278
+    21300558: Hero-sheet_279
+    21300560: Hero-sheet_280
+    21300562: Hero-sheet_281
+    21300564: Hero-sheet_282
+    21300566: Hero-sheet_283
+    21300568: Hero-sheet_284
+    21300570: Hero-sheet_285
+    21300572: Hero-sheet_286
+    21300574: Hero-sheet_287
+    21300576: Hero-sheet_288
+    21300578: Hero-sheet_289
+    21300580: Hero-sheet_290
+    21300582: Hero-sheet_291
+    21300584: Hero-sheet_292
+    21300586: Hero-sheet_293
+    21300588: Hero-sheet_294
+    21300590: Hero-sheet_295
+    21300592: Hero-sheet_296
+    21300594: Hero-sheet_297
+    21300596: Hero-sheet_298
+    21300598: Hero-sheet_299
+    21300600: Hero-sheet_300
+    21300602: Hero-sheet_301
+    21300604: Hero-sheet_302
+    21300606: Hero-sheet_303
+    21300608: Hero-sheet_304
+    21300610: Hero-sheet_305
+    21300612: Hero-sheet_306
+    21300614: Hero-sheet_307
+    21300616: Hero-sheet_308
+    21300618: Hero-sheet_309
+    21300620: Hero-sheet_310
+    21300622: Hero-sheet_311
+    21300624: Hero-sheet_312
+    21300626: Hero-sheet_313
+    21300628: Hero-sheet_314
+    21300630: Hero-sheet_315
+    21300632: Hero-sheet_316
+    21300634: Hero-sheet_317
+    21300636: Hero-sheet_318
+    21300638: Hero-sheet_319
+    21300640: Hero-sheet_320
+    21300642: Hero-sheet_321
+    21300644: Hero-sheet_322
+    21300646: Hero-sheet_323
+    21300648: Hero-sheet_324
+    21300650: Hero-sheet_325
+    21300652: Hero-sheet_326
+    21300654: Hero-sheet_327
+    21300656: Hero-sheet_328
+    21300658: Hero-sheet_329
+    21300660: Hero-sheet_330
+    21300662: Hero-sheet_331
+    21300664: Hero-sheet_332
+    21300666: Hero-sheet_333
+    21300668: Hero-sheet_334
+    21300670: Hero-sheet_335
+    21300672: Hero-sheet_336
+    21300674: Hero-sheet_337
+    21300676: Hero-sheet_338
+    21300678: Hero-sheet_339
+    21300680: Hero-sheet_340
+    21300682: Hero-sheet_341
+    21300684: Hero-sheet_342
+    21300686: Hero-sheet_343
+    21300688: Hero-sheet_344
+    21300690: Hero-sheet_345
+    21300692: Hero-sheet_346
+    21300694: Hero-sheet_347
+    21300696: Hero-sheet_348
+    21300698: Hero-sheet_349
+    21300700: Hero-sheet_350
+    21300702: Hero-sheet_351
+    21300704: Hero-sheet_352
+    21300706: Hero-sheet_353
+    21300708: Hero-sheet_354
+    21300710: Hero-sheet_355
+    21300712: Hero-sheet_356
+    21300714: Hero-sheet_357
+    21300716: Hero-sheet_358
+    21300718: Hero-sheet_359
+    21300720: Hero-sheet_360
+    21300722: Hero-sheet_361
+    21300724: Hero-sheet_362
+    21300726: Hero-sheet_363
+    21300728: Hero-sheet_364
+    21300730: Hero-sheet_365
+    21300732: Hero-sheet_366
+    21300734: Hero-sheet_367
+    21300736: Hero-sheet_368
+    21300738: Hero-sheet_369
+    21300740: Hero-sheet_370
+    21300742: Hero-sheet_371
+    21300744: Hero-sheet_372
+    21300746: Hero-sheet_373
+    21300748: Hero-sheet_374
+    21300750: Hero-sheet_375
+    21300752: Hero-sheet_376
+    21300754: Hero-sheet_377
+    21300756: Hero-sheet_378
+    21300758: Hero-sheet_379
+    21300760: Hero-sheet_380
+    21300762: Hero-sheet_381
+    21300764: Hero-sheet_382
+    21300766: Hero-sheet_383
+    21300768: Hero-sheet_384
+    21300770: Hero-sheet_385
+    21300772: Hero-sheet_386
+    21300774: Hero-sheet_387
+    21300776: Hero-sheet_388
+    21300778: Hero-sheet_389
+    21300780: Hero-sheet_390
+    21300782: Hero-sheet_391
+    21300784: Hero-sheet_392
+    21300786: Hero-sheet_393
+    21300788: Hero-sheet_394
+    21300790: Hero-sheet_395
+    21300792: Hero-sheet_396
+    21300794: Hero-sheet_397
+    21300796: Hero-sheet_398
+    21300798: Hero-sheet_399
+    21300800: Hero-sheet_400
+    21300802: Hero-sheet_401
+    21300804: Hero-sheet_402
+    21300806: Hero-sheet_403
+    21300808: Hero-sheet_404
+    21300810: Hero-sheet_405
+    21300812: Hero-sheet_406
+    21300814: Hero-sheet_407
+    21300816: Hero-sheet_408
+    21300818: Hero-sheet_409
+    21300820: Hero-sheet_410
+    21300822: Hero-sheet_411
+    21300824: Hero-sheet_412
+    21300826: Hero-sheet_413
+    21300828: Hero-sheet_414
+    21300830: Hero-sheet_415
+    21300832: Hero-sheet_416
+    21300834: Hero-sheet_417
+    21300836: Hero-sheet_418
+    21300838: Hero-sheet_419
+    21300840: Hero-sheet_420
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 14, y: 28, z: 8, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hero-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 995
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 995
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 966
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 966
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 966
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 966
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 966
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 966
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 966
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 966
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 966
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 966
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 937
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 937
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 938
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 937
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 937
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 937
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 937
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 938
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 937
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 937
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 937
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 937
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 937
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 937
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 938
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 937
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 937
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 937
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 937
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 938
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 937
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 937
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 907
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 907
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 907
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 907
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 907
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 907
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 907
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 907
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 907
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 907
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 907
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 907
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 907
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 907
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 907
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 907
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 907
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 907
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 878
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 878
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 878
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 878
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 878
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 878
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 878
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 878
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 878
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 878
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 878
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 878
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 878
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 878
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 878
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 878
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 878
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 878
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 849
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 849
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 849
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 849
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 849
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 849
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 849
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 849
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 849
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 849
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 849
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 849
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 849
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 849
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 849
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 849
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 849
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 849
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 849
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 849
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 820
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 820
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 820
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 820
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 820
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 820
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 820
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 786
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 820
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 820
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_100
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 820
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_101
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 820
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_102
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 820
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_103
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 820
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_104
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 820
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_105
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 786
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_106
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 820
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_107
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 820
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_108
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 820
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_109
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 820
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_110
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 820
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_111
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 820
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_112
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 781
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_113
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 781
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_114
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 781
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_115
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 781
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_116
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 781
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_117
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 785
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_118
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 785
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_119
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 781
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_120
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 781
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_121
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 781
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_122
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 781
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_123
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 781
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_124
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 781
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_125
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 781
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_126
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 781
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_127
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 781
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_128
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 781
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_129
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 785
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_130
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 785
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_131
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 781
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_132
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 781
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_133
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 781
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_134
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 781
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_135
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 781
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_136
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 751
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_137
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 751
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_138
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 751
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_139
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 742
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_140
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 736
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_141
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 729
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_142
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 724
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_143
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 719
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_144
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 719
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_145
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 724
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_146
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 729
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_147
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 736
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_148
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 742
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_149
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 751
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_150
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 751
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_151
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 751
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_152
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 661
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_153
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 661
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_154
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 661
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_155
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 652
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_156
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 647
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_157
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 646
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_158
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 647
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_159
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 652
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_160
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 661
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_161
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 661
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_162
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 661
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_163
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 563
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_164
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 563
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_165
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 563
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_166
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 563
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_167
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 563
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_168
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 563
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_169
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 566
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_170
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 572
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_171
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 575
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_172
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 570
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_173
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 566
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_174
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 563
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_175
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 563
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_176
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 563
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_177
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 563
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_178
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 563
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_179
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 563
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_180
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 563
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_181
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 563
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_182
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 563
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_183
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 563
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_184
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 566
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_185
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 570
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_186
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 575
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_187
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 572
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_188
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 566
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_189
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 563
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_190
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 563
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_191
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 563
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_192
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 563
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_193
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 563
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_194
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 563
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_195
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 525
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_196
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 525
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_197
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 525
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_198
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 525
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_199
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 525
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_200
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 525
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_201
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 530
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_202
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 535
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_203
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 537
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_204
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 533
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_205
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 529
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_206
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 525
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_207
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 525
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_208
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 529
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_209
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 533
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_210
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 537
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_211
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 535
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_212
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 530
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_213
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 525
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_214
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 525
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_215
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 525
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_216
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 525
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_217
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 525
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_218
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 525
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_219
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 494
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_220
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 494
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_221
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 494
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_222
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 485
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_223
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 479
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_224
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 473
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_225
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 467
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_226
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 462
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_227
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 462
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_228
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 461
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_229
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 462
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_230
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 461
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_231
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 467
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_232
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 473
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_233
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 467
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_234
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 462
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_235
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 462
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_236
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 467
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_237
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 473
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_238
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 467
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_239
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 461
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_240
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 462
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_241
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 461
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_242
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 462
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_243
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 462
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_244
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 467
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_245
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 473
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_246
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 479
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_247
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 485
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_248
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 494
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_249
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 494
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_250
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 494
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_251
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 404
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_252
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 404
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_253
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 404
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_254
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 404
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_255
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 404
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_256
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 404
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_257
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 404
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_258
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 404
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_259
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 404
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_260
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 404
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_261
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 404
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_262
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 404
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_263
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 370
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_264
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 370
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_265
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 370
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_266
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 367
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_267
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 367
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_268
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 367
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_269
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 370
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_270
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 370
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_271
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 370
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_272
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 335
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_273
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 334
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_274
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 335
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_275
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 334
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_276
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 338
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_277
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 334
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_278
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 331
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_279
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 332
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_280
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 332
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_281
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 331
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_282
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 334
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_283
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 338
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_284
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 334
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_285
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 335
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_286
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 334
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_287
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 335
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_288
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 289
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_289
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 289
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_290
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 289
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_291
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 289
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_292
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 289
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_293
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 289
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_294
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 289
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_295
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 289
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_296
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 289
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_297
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 289
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_298
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 260
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_299
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 260
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_300
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 260
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_301
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 260
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_302
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 260
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_303
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 260
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_304
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 260
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_305
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 260
+        width: 57
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_306
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 260
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_307
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 260
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_308
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 260
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_309
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 260
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_310
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 260
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_311
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 260
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_312
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 260
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_313
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 263
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_314
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 263
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_315
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 260
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_316
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 260
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_317
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 260
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_318
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 260
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_319
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 260
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_320
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 260
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_321
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 260
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_322
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 260
+        width: 57
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_323
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 260
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_324
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 260
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_325
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 260
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_326
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 260
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_327
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 260
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_328
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 260
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_329
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 260
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_330
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 231
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_331
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 231
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_332
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 231
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_333
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 231
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_334
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_335
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 231
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_336
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 231
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_337
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 231
+        width: 57
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_338
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 231
+        width: 57
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_339
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 231
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_340
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 231
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_341
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_342
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 231
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_343
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 231
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_344
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 231
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_345
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 231
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_346
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 202
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_347
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 202
+        width: 65
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_348
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 202
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_349
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 202
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_350
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 202
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_351
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 202
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_352
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 202
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_353
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 202
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_354
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 202
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_355
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 205
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_356
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 205
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_357
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 202
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_358
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 202
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_359
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 202
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_360
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 202
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_361
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 202
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_362
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 202
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_363
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 202
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_364
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 202
+        width: 65
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_365
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 202
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_366
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 163
+        width: 116
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_367
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 163
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_368
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 163
+        width: 61
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_369
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 163
+        width: 61
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_370
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 163
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_371
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 163
+        width: 116
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_372
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 132
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_373
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 132
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_374
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 132
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_375
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 132
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_376
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 132
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_377
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 132
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_378
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 132
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_379
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 132
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_380
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 132
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_381
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 132
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_382
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 132
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_383
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 132
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_384
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 132
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_385
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 132
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_386
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_387
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 96
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_388
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 96
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_389
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 96
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_390
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 96
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_391
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 96
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_392
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 102
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_393
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 96
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_394
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 96
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_395
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 96
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_396
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 96
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_397
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 96
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_398
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 96
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_399
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 68
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_400
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 68
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_401
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 68
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_402
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 68
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_403
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 68
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_404
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 68
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_405
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 73
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_406
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 73
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_407
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 68
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_408
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 68
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_409
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 68
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_410
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 68
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_411
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 68
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_412
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 68
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_413
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 1008
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_414
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 37
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_415
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 37
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_416
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 37
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_417
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 37
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_418
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 37
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_419
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 37
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero-sheet_420
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 37
+        width: 85
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

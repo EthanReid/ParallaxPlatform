@@ -49,10 +49,10 @@
      <Compile Include="Assets\2D Assets Pack\Scripts\2D Platformer\Camera2DFollow.cs" />
      <Compile Include="Assets\2D Assets Pack\Scripts\2D Platformer\Parallaxing.cs" />
      <Compile Include="Assets\EpicPlayerControler.cs" />
+     <Compile Include="Assets\Family guy\SmoothCamera2d.cs" />
      <Compile Include="Assets\MoveTrail.cs" />
      <Compile Include="Assets\PlayerController.cs" />
      <Compile Include="Assets\PlayerMovement.cs" />
-     <Compile Include="Assets\SmoothCamera2d.cs" />
      <Compile Include="Assets\Tiling.cs" />
      <Compile Include="Assets\Weapon1.cs" />
      <Compile Include="Assets\enemyAi.cs" />
