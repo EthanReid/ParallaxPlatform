@@ -3,14 +3,15 @@ using System.Collections;
 
 public class PlayerController : MonoBehaviour 
 {
+	Animator animator;
 	[HideInInspector] 
 	public bool isFacingRight = true;			// Is the player sprite facing the righthand side of the screen?
 	[HideInInspector]
 	public bool isGrounded = false;				// Is the player touching ground?
-
-	public float maxSpeed = 7.0f;				// The fastest the player can travel in the x axis.
+	public bool jump;
+	public float maxSpeed;				// The fastest the player can travel in the x axis.
 	public float jumpForce = 650.0f;			// Amount of force added when the player jumps.
-	
+	public float move;
 	public Transform groundCheck;				// GameObject transform used for ground check
 	public LayerMask groundLayers;				// Mask denoting layers that count as "ground"
 
@@ -19,12 +20,17 @@ public class PlayerController : MonoBehaviour
 	// Use this for initialization
 	void Start () 
 	{
-		
+//		Animator = GetComponent<Animator> ();
+		animator = GetComponent<Animator>();
 	}
 	
 	// Update is called once per frame
 	void Update () 
 	{
+		if (Input.GetKeyUp (KeyCode.LeftShift)) {
+			animator.SetBool ("Hurt", true);
+		}
+
 		// Check for player input
 		// Is the player pressing jump?  Are they on the ground?
 		if(Input.GetButtonDown("Jump"))
@@ -34,10 +40,15 @@ public class PlayerController : MonoBehaviour
 			{
 				this.GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x,0);		// Zero out vertical velocity to prevent increased jump height when going up an incline
 				this.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, jumpForce));					// Apply jump force value
+				animator.SetBool("JumpB", true);
+				//animator.SetBool("JumpB", true);
 			}
 			else
 			{
 				Debug.Log("Jump pressed while not grounded");
+			}
+		if(isGrounded == false){
+				animator.SetBool("JumpB", true);
 			}
 		}
 	}
@@ -49,7 +60,7 @@ public class PlayerController : MonoBehaviour
 			(groundCheck.position, groundCheckRadius, groundLayers);
 		try
 		{
-			float move = Input.GetAxis("Horizontal");
+			move = Input.GetAxis("Horizontal");
 //			maxSpeed = 3.0f;
 			this.GetComponent<Rigidbody2D>().velocity = new Vector2 (move * maxSpeed, GetComponent<Rigidbody2D>().velocity.y);
 
@@ -66,6 +77,12 @@ public class PlayerController : MonoBehaviour
 //		{
 //			Debug.LogWarning ("Our input check failed!");
 //		}
+
+		float h = Input.GetAxis("Horizontal");
+
+		animator.SetFloat("Speed", Mathf.Abs (move));
+		print (maxSpeed);
+	
 	}
 
 	void Flip()
@@ -75,4 +92,4 @@ public class PlayerController : MonoBehaviour
 		playerScale.x = playerScale.x * -1;					// Invert the X scale of the Vector 3
 		transform.localScale = playerScale;				    // Match the transforms local scale to the Vector 3
 	}
-}
+	}

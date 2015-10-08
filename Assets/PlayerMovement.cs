@@ -2,6 +2,7 @@
 using System.Collections;
 
 public class PlayerMovement : MonoBehaviour {
+	Animator animator;	
 	public Sprite sprite1;
 	public Sprite sprite2;
 	public bool isFacingRight = true;	
@@ -11,7 +12,8 @@ public class PlayerMovement : MonoBehaviour {
 	//public Sprite sprite3;
 	// Use this for initialization
 	void Start () {
-		
+
+		animator = GetComponent<Animator>();
 	}
 	
 	
@@ -34,6 +36,10 @@ public class PlayerMovement : MonoBehaviour {
 
 		if (Input.GetKey(KeyCode.RightArrow)){
 			gameObject.GetComponent<SpriteRenderer>().sprite = sprite2;
+			float h = Input.GetAxis("Horizontal");
+			
+			animator.SetFloat("Speed", Mathf.Abs (speed));
+			print (speed);
 		}
 		if (Input.GetKey(KeyCode.LeftArrow)){
 			gameObject.GetComponent<SpriteRenderer>().sprite = sprite1;
@@ -72,6 +78,14 @@ public class PlayerMovement : MonoBehaviour {
 		//playerScale.x = playerScale.x * -1;					// Invert the X scale of the Vector 3
 		//transform.localScale = playerScale;				    // Match the transforms local scale to the Vector 3
 	//}
+	void Flip()
+	{
+		isFacingRight = !isFacingRight;							// Invert the value of facingRight
+		Vector3 playerScale = transform.localScale;			// Invert the local transform
+		playerScale.x = playerScale.x * -1;					// Invert the X scale of the Vector 3
+		transform.localScale = playerScale;				    // Match the transforms local scale to the Vector 3
+	}
 }
+
 
 
