@@ -40,7 +40,7 @@ public class PlayerController : MonoBehaviour
 			{
 				this.GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x,0);		// Zero out vertical velocity to prevent increased jump height when going up an incline
 				this.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, jumpForce));					// Apply jump force value
-				animator.SetBool("JumpB", true);
+				animator.SetBool("JumpB", false);
 				//animator.SetBool("JumpB", true);
 			}
 			else
